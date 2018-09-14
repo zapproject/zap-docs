@@ -9,9 +9,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "eth-api": "./node_modules/.bin/solidity-docgen --exclude lib,token,Migrations.sol ./node_modules/zap_contracts/ ./node_modules/zap_contracts/contracts ./Documentation",
+    "compile" :"yarn --cwd Documentation/website",
     "build": "yarn --cwd Documentation/website build",
     "start": "yarn --cwd Documentation/website start",
-    "server": "run-s eth-api build start"
+    "server": "run-s compile eth-api build start"
   },
   "dependencies": {
     "docusaurus-init": "^1.0.2",
