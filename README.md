@@ -2,5 +2,5 @@
 Documentation Site for Ethereum-API and ZapJS 
 ### Build
 - yarn
-- yarn build
-- yarn start
+- yarn server
+- Check localhost:3000
