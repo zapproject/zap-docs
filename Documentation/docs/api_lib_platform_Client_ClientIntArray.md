@@ -1,0 +1,6 @@
+---
+id: lib_platform_Client_ClientIntArray
+title: ClientIntArray
+---
+
+<div class="contract-doc"><div class="contract"><h2 class="contract-header"><span class="contract-kind">contract</span> ClientIntArray</h2><div class="source">Source: <a href="git+https://github.com/zapproject/ZapContracts/blob/v0.0.1/contracts/lib/platform/Client.sol" target="_blank">lib/platform/Client.sol</a></div></div><div class="index"><h2>Index</h2><ul><li><a href="lib_platform_Client_ClientIntArray.html#callback">callback</a></li></ul></div><div class="reference"><h2>Reference</h2><div class="functions"><h3>Functions</h3><ul><li><div class="item function"><span id="callback" class="anchor-marker"></span><h4 class="name">callback</h4><div class="body"><code class="signature"><span>abstract </span>function <strong>callback</strong><span>(uint256 id, int[] response) </span><span>external </span></code><hr/><div class="description"><p>Callback that provider will call after Dispatch.query() call.</p></div><dl><dt><span class="label-parameters">Parameters:</span></dt><dd><div><code>id</code> - request id</div><div><code>response</code> - int array</div></dd></dl></div></div></li></ul></div></div></div>

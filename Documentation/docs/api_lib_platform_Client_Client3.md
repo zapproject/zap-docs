@@ -1,0 +1,6 @@
+---
+id: lib_platform_Client_Client3
+title: Client3
+---
+
+<div class="contract-doc"><div class="contract"><h2 class="contract-header"><span class="contract-kind">contract</span> Client3</h2><div class="source">Source: <a href="git+https://github.com/zapproject/ZapContracts/blob/v0.0.1/contracts/lib/platform/Client.sol" target="_blank">lib/platform/Client.sol</a></div></div><div class="index"><h2>Index</h2><ul><li><a href="lib_platform_Client_Client3.html#callback">callback</a></li></ul></div><div class="reference"><h2>Reference</h2><div class="functions"><h3>Functions</h3><ul><li><div class="item function"><span id="callback" class="anchor-marker"></span><h4 class="name">callback</h4><div class="body"><code class="signature"><span>abstract </span>function <strong>callback</strong><span>(uint256 id, string response1, string response2, string response3) </span><span>external </span></code><hr/><div class="description"><p>Callback that provider will call after Dispatch.query() call.</p></div><dl><dt><span class="label-parameters">Parameters:</span></dt><dd><div><code>id</code> - request id</div><div><code>response1</code> - first provider-specified param</div><div><code>response2</code> - second provider-specified param</div><div><code>response3</code> - third provider-specified param</div></dd></dl></div></div></li></ul></div></div></div>

@@ -1,0 +1,45 @@
+{
+  "docs": {
+    "Docusaurus": [
+      "doc1"
+    ],
+    "First Category": [
+      "doc2"
+    ],
+    "Second Category": [
+      "doc3"
+    ]
+  },
+  "docs-other": {
+    "First Category": [
+      "doc4",
+      "doc5"
+    ]
+  },
+  "docs-api": {
+    "PLATFORM / ARBITER": [
+      "platform_arbiter_Arbiter",
+      "platform_arbiter_ArbiterInterface"
+    ],
+    "PLATFORM / BONDAGE": [
+      "platform_bondage_Bondage",
+      "platform_bondage_BondageInterface"
+    ],
+    "PLATFORM / BONDAGE / CURRENTCOST": [
+      "platform_bondage_currentCost_CurrentCost",
+      "platform_bondage_currentCost_CurrentCostInterface"
+    ],
+    "PLATFORM / DATABASE": [
+      "platform_database_Database",
+      "platform_database_DatabaseInterface"
+    ],
+    "PLATFORM / DISPATCH": [
+      "platform_dispatch_Dispatch",
+      "platform_dispatch_DispatchInterface"
+    ],
+    "PLATFORM / REGISTRY": [
+      "platform_registry_Registry",
+      "platform_registry_RegistryInterface"
+    ]
+  }
+}
