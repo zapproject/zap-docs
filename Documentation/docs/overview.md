@@ -1,5 +1,5 @@
 ---
-id: doc1
+id: overview
 title: Zap Ethereum API 
 sidebar_label: Overview 
 ---
@@ -11,9 +11,9 @@ Check the [repo](https://github.com/zapproject/zap-ethereum-api/tree/master) her
 
 ## Overview
 
-The Zap platform serves as a data broker amongst the members of its network.
+Zap is a platform for tokenizing services and curating service providers with a focus oracle services. 
 
-Data providers are incentivized to publish secure data feeds from a variety of endpoints which are monetized via provider-specific bonding markets. 
+Data providers are incentivized to publish secure data feeds from a variety of endpoints which are monetized via resource-specific bonding markets. 
 
 In these bonding markets, data-consumers and/or speculators stake ZAP tokens to data-providers in exchange for data-provider-specific access tokens, ‘dots’.
 

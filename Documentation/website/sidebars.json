@@ -17,6 +17,13 @@
     ]
   },
   "docs-api": {
+    "GETTING STARTED": [
+      "overview",
+      "commandline",
+      "template",
+      "simplesubscriber"
+
+    ],
     "PLATFORM / ARBITER": [
       "platform_arbiter_Arbiter",
       "platform_arbiter_ArbiterInterface"
